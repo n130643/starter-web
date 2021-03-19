@@ -3,3 +3,4 @@
 User-agent: *
 
 Rebasing example on master branch
+Rebasing example on feature branch
